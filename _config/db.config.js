@@ -1,0 +1,1 @@
+export const mongoUrl = "mongodb+srv://rizwan:rizwan@cluster0.vxqcp.mongodb.net/ignou?retryWrites=true&w=majority";
